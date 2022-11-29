@@ -1,0 +1,15 @@
+D:\Education\C Sharp\number-guesser\number-guesser\bin\Debug\net6.0\number-guesser.exe
+D:\Education\C Sharp\number-guesser\number-guesser\bin\Debug\net6.0\number-guesser.deps.json
+D:\Education\C Sharp\number-guesser\number-guesser\bin\Debug\net6.0\number-guesser.runtimeconfig.json
+D:\Education\C Sharp\number-guesser\number-guesser\bin\Debug\net6.0\number-guesser.dll
+D:\Education\C Sharp\number-guesser\number-guesser\bin\Debug\net6.0\number-guesser.pdb
+D:\Education\C Sharp\number-guesser\number-guesser\obj\Debug\net6.0\number-guesser.csproj.AssemblyReference.cache
+D:\Education\C Sharp\number-guesser\number-guesser\obj\Debug\net6.0\number-guesser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\C Sharp\number-guesser\number-guesser\obj\Debug\net6.0\number-guesser.AssemblyInfoInputs.cache
+D:\Education\C Sharp\number-guesser\number-guesser\obj\Debug\net6.0\number-guesser.AssemblyInfo.cs
+D:\Education\C Sharp\number-guesser\number-guesser\obj\Debug\net6.0\number-guesser.csproj.CoreCompileInputs.cache
+D:\Education\C Sharp\number-guesser\number-guesser\obj\Debug\net6.0\number-guesser.dll
+D:\Education\C Sharp\number-guesser\number-guesser\obj\Debug\net6.0\refint\number-guesser.dll
+D:\Education\C Sharp\number-guesser\number-guesser\obj\Debug\net6.0\number-guesser.pdb
+D:\Education\C Sharp\number-guesser\number-guesser\obj\Debug\net6.0\number-guesser.genruntimeconfig.cache
+D:\Education\C Sharp\number-guesser\number-guesser\obj\Debug\net6.0\ref\number-guesser.dll
